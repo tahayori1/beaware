@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tahayori1.github.io/gh/sitemap.xml
